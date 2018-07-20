@@ -1,11 +1,4 @@
 # Introducing Ethereum and Solidity
-## Directory of All Chapter References and Footnotes
-### compiled by Chris Dannen (Keybase 8223371585CC5FDC)
-#### Buy the book
-Amazon link: http://amzn.to/2jJ7WUt
-##### Tips
-ETH: ad29868492955919693e7500534ba3005bedd87a
-BTC: 1NV72LqZAJQa97JnSQDENTwsPPB9QXg6Qe
 
 # Quick-start
 
@@ -181,7 +174,6 @@ If you backed up your entire keystore folder, pull out the text document inside 
 ## videos
 * https://www.youtube.com/user/EtherCasts/videos
 
-# Chapter 1
 * Ethereum Blog, "Visions, Part 1: The Value of Blockchain Technology," https://blog.Ethereum.org/2015/04/13/visions-part-1-the-value-of-blockchain-technology, 2015.
 * American Banker, "Blockchain Won't Make Banks Any Nimbler," http://www.americanbanker.com/bankthink/blockchain-wont-make-banks-any-nimbler-1079190-1.html, 2016.
 * YouTube, "Technologies that will decentralize the world," https://www.youtube.com/watch?v=er-k3ehpFaM&feature=share, 2016.
@@ -196,30 +188,20 @@ If you backed up your entire keystore folder, pull out the text document inside 
 * Gnu Foundation, "Why Open Source misses the point of Free Software," https://www.gnu.org/philosophy/open-source-misses-the-point.html, 2016.
 *  Cnn.com, “5300 Wells Fargo Employees Fired Over 2 Million Phony Accounts,” http://money.cnn.com/2016/09/08/investing/wells-fargo-created-phony-accounts-bank-fees/, 2016
 * Daily Fintech, "How blockchain technology could integrate financial & physical supply chains and revolutionize small business finance," https://dailyfintech.com/2016/06/14/how-blockchain-technology-could-integrate-financial-physical-supply-chains-and-revolutionize-small-business-finance/, 2016.
-
-# Chapter 2
 * Dr. Gavin Wood, “Ethereum Yellow Paper,” https://github.com/ethereum/yellowpaper, Github.com, 2014.
 * Science Magazine, “Why criminals can’t hide behind bitcoin,” http://www.sciencemag.org/news/2016/03/why-criminals-cant-hide-behind-bitcoin, 2016.
 * StackExchange, “When transferring ether, who needs to be in sync with the blockchain,” https://ethereum.stackexchange.com/questions/2273/when-transferring-ether-who-needs-to-be-in-sync-with-the-blockchain, 2016.
-
-# Chapter 3
 * Wikipedia, “Grace Hopper,” https://en.wikipedia.org/wiki/Grace_Hopper, 2016.
 * Gavwood.com, “ETHEREUM:  A  SECURE  DECENTRALISED  GENERALISED  TRANSACTION  LEDGER”, http://gavwood.com/paper.pdf, 2016.
-
-# Chapter 4
 * Smithsonian.com. “Revolutionary Money,” http://www.smithsonianeducation.org/educators/lesson_plans/revolutionary_money/introduction.html, 2016.
 * Wikipedia.org. “Counterfeit Money,” https://en.wikipedia.org/wiki/Counterfeit_money, 2016.
 * Investopedia. “Complementary currency,” http://www.investopedia.com/articles/economics/11/introduction-complementary-currencies.asp, 2016.
 * New York Times, “Internet browsers to be disabled on New York’s free WiFi kiosks,” http://www.nytimes.com/2016/09/15/nyregion/internet-browsers-to-be-disabled-on-new-yorks-free-wi-fi-kiosks.html?_r=0, 2016.
 * Wikipedia, “Rice’s Theorem,” https://en.wikipedia.org/wiki/Rice%27s_theorem, 2016.
-
-# Chapter 5
 * Wikipedia, “Legality of bitcoin by country,” https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country
 * ConsenSys Media, “Programmable blockchains in context: Ethereum’s future,” https://medium.com/consensys-media/programmable-blockchains-in-context-ethereum-s-future-cd8451eb421e#.rwdqmpvu0, 2015
 * Nick Szabo, “Shelling out: the Origins of Money,” ,http://nakamotoinstitute.org/shelling-out/, 2002.
 * Armstrong Economics, “Money and the Evolution of Banking,” https://www.armstrongeconomics.com/research/monetary-history-of-the-world/historical-outline-origins-of-money/money-and-the-evolution-of-banking/, 2016.
-
-# Chapter 6
 * Vitalik Buterin, “A Proof of Stake Design Philosophy,” https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#.7n3x85gvs, 2016.
 * Dr. Gavin Wood, “Ethereum Yellow Paper,” https://github.com/ethereum/yellowpaper, 2016.
 * Ethereum Community Forum, “How is mining difficulty calculated,” https://forum.ethereum.org/discussion/5002/how-is-the-mining-difficulty-calculated-on-ethereum, 2016.
@@ -229,24 +211,13 @@ If you backed up your entire keystore folder, pull out the text document inside 
 * StackOverflow, “When will the difficulty bomb make mining impossible?” http://ethereum.stackexchange.com/questions/3779/when-will-the-difficulty-bomb-make-mining-impossible/3819#3819, 2016.
 * Ethereum Blog, “Merkling in Ethereum,” https://blog.ethereum.org/2015/11/15/merkling-in-ethereum/, 2015.
 * Ethereum Wiki, “Merkle Patricia Tree Specification,” https://github.com/ethereum/wiki/wiki/Patricia-Tree#merkle-patricia-tree-specification, 2016.
-
-# Chapter 7
 * Winterbotham, F. W., The Ultra Secret: The Inside Story of Operation Ultra, Bletchley Park and Enigma. Orion Publishers, London, 2000.
 * https://www.reddit.com/r/ethereum/comments/453sid/empirical_cryptoeconomics/
 * https://medium.com/@noahthorp/how-society-will-be-transformed-by-crypto-economics-b02b6765ca8c#.e10qayhio
 * MacroMainia, “FedCoin: the desirability of a government cryptocurrency,” http://andolfatto.blogspot.co.uk/2015/02/fedcoin-on-desirability-of-government.html, 2015.
-
-# Chapter 8
-* No citations
-
-# Chapter 9
 * https://github.com/chrisdannen/Introducing-Ethereum-and-Solidity/blob/master/genesis765.json
-
-# Chapter 10
 * W3.org, “W3 history,” https://www.w3.org/History/19921103-hypertext/hypertext/WWW/Protocols/HTTP.html, 2016.
 * State of the Dapps: http://dapps.ethercasts.com/
-
-# Chapter 11
 * Backchannel, “The Uncanny Mind That Build Ethereum,” https://backchannel.com/the-uncanny-mind-that-built-ethereum-9b448dc9d14f#.ct4n4b561, 2016.
 * Foundation members: https://www.ethereum.org/foundation
 * https://blog.ethereum.org/2015/06/06/the-problem-of-censorship/
